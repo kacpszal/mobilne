@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inactive">Dezaktywuj możliwość wpisywania</string>
+    <string name="active">Aktywuj możliwość wpisywania</string>
+</resources>
